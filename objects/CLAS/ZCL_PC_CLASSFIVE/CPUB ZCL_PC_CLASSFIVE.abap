@@ -1,0 +1,6 @@
+CLASS zcl_pc_classfive DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
