@@ -1,0 +1,6 @@
+CLASS zcl_pc_classnine DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
