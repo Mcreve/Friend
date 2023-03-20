@@ -1,0 +1,6 @@
+CLASS zcl_pc_classthree DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
